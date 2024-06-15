@@ -28,7 +28,6 @@ shared.GloveRemotes = {
     ["T H I C K"] = game.ReplicatedStorage.GeneralHit,
     ["Golden"] = game.ReplicatedStorage.GoldenHit,
     ["Squid"] = game.ReplicatedStorage.GeneralHit,
-    ["Cheeky"] = game.ReplicatedStorage.CheekyHit,
     ["Reaper"] = game.ReplicatedStorage.ReaperHit,
     ["Replica"] = game.ReplicatedStorage.ReplicaHit,
     ["Defense"] = game.ReplicatedStorage.DefenseHit,
